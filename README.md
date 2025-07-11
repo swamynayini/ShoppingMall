@@ -1,0 +1,18 @@
+- then start the project
+- create the react app
+- first the header was created
+  -logo
+  -Home
+  -SingOut
+- search Bar
+  - when is product is search then show the raesult
+- using the fake store apu link
+- fetch the api
+- then console
+- show the product details
+- using the useState and useEffect
+- build the add cart and buynow
+- when is add to cart button the n show the cart count
+- when singout button will be build
+- login form build use the email and password
+-
